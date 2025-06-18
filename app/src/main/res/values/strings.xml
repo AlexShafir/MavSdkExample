@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MavSdkExample</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="takeoff">Takeoff</string>
+    <string name="arm">Arm</string>
+    <string name="disarm">Disarm</string>
+    <string name="land">Land</string>
+</resources>
